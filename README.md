@@ -1,13 +1,13 @@
 <div style="text-align: center; margin-bottom: 20px;">
   <a href="http://blackophzblm5txv527xefnnonudu2r4r3pb3v7ge6rdrzhblfacxxad.onion/?utm=blackopsgit">
-    <img src="/gallery13/product13.png" alt="Verified blackops dark web" style="max-width: 50%;">
+    <img src="/gallery14/product14.png" alt="Verified blackops dark web" style="max-width: 50%;">
   </a>
 </div>
 
 
 <div style="text-align: center; margin-bottom: 20px;">
   <a href="http://blackophzblm5txv527xefnnonudu2r4r3pb3v7ge6rdrzhblfacxxad.onion/?utm=blackopsgit">
-    <img src="/gallery13/visit13.png" width="200" alt="Black ops Marketplace link">
+    <img src="/gallery14/visit14.png" width="200" alt="Black ops Marketplace link">
   </a>
 </div>
 
@@ -22,7 +22,7 @@ Unlike conventional darknet markets that rely on static infrastructure, Black Op
 
 <div style="text-align: center; margin-bottom: 20px;">
   <a href="http://blackophzblm5txv527xefnnonudu2r4r3pb3v7ge6rdrzhblfacxxad.onion/?utm=blackopsgit">
-    <img src="/gallery13/visit13.png" width="200" alt="Black ops Marketplace link">
+    <img src="/gallery14/visit14.png" width="200" alt="Black ops Marketplace link">
   </a>
 </div>
 
@@ -37,7 +37,7 @@ When international coalition "Task Force Cerberus" executed their sophisticated 
 
 <div style="text-align: center; margin-bottom: 20px;">
   <a href="http://blackophzblm5txv527xefnnonudu2r4r3pb3v7ge6rdrzhblfacxxad.onion/?utm=blackopsgit">
-    <img src="/gallery13/visit13.png" width="200" alt="Black ops Marketplace link">
+    <img src="/gallery14/visit14.png" width="200" alt="Black ops Marketplace link">
   </a>
 </div>
 
